@@ -1,0 +1,25 @@
+/*CSS can have comments! */
+
+p {
+    margin: 5px 0 10px 0;
+    color: chocolate;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: hotpink;
+
+}
+
+ol {
+    color: #FF0000;
+}
+
+li {
+    color: rgba(255,0,0,0.5);
+}
+
+aside{
+    color: hsl(hue, saturation, lightness);
+}

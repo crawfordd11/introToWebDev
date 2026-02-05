@@ -1,0 +1,44 @@
+/*CSS can have comments! */
+
+p {
+    margin: 5px 0 10px 0;
+    color: chocolate;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: hotpink;
+
+}
+
+ol {
+    color: #FF0000;
+}
+
+li {
+    color: rgba(255, 0, 0, 0.5);
+}
+
+aside {
+    color: hsl(hue, saturation, lightness);
+}
+
+section {
+    border: 2px solid #333;
+    /* Defines the box outline */
+    padding: 20px;
+    /* Adds space inside the border */
+    margin: 10px;
+    /* Adds space outside the border */
+    background-color: #123456;
+    /* Optional: adds background color */
+    width: 100%;
+    /* Can be fixed (e.g., 300px) or fluid */
+    box-sizing: border-box;
+    /* Ensures padding/border don't increase width */
+}
+
+footer {
+    text-align: center;
+}
